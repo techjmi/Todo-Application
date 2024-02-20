@@ -22,8 +22,8 @@ Welcome to the Modern Todo App! This is a responsive Todo application built usin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/modern-todo-app.git
-   cd modern-todo-app
+   git clone https://github.com/techjmi/Todo-Application.git
+
 
 # React + Vite
 
