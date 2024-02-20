@@ -1,0 +1,22 @@
+.todos::-webkit-scrollbar {
+    scrollbar-width: none;
+  }
+  
+  /* Optional: You may also want to hide the scrollbar track */
+  ::-webkit-scrollbar-track {
+    display: none;
+  }
+  @media (max-width: 400px) {
+    .container{
+        width: 100%;
+        margin: 0;
+    }
+    .todos{
+        width: 100%;
+    }
+
+    .navbar{
+        width: 100%;
+        margin: 0;
+    }
+  }
